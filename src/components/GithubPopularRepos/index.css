@@ -1,0 +1,28 @@
+.mainContEdit {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.head1Edit {
+  color: black;
+  font-weight: bold;
+  font-size: 30px;
+  font-family: 'Lobster';
+}
+
+.filterContEdit {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  list-style-type: none;
+}
+
+.reposiContEdit {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 80%;
+}
